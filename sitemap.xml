@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://example.com/manual/hook.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/ext.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/help/how-to-update.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/help/how-to-build.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/synology-transparent-proxy.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/specify-container-proxy.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/pass-bt.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/noroot.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/multiple-outbound-routing.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/unblock-netease-cloud.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/tproxy-docker-support.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/public-network-transmission.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/nginx-prefix-deploy.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/intranet-transmission.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/intranet-direct.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/custom-extra-config.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/advanced-application/advanced-dns.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/help/troubleshooting.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/help/faq.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/variable-argument.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/use-other-core.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/transparent-proxy.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/tfo-reuse.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/special-mode.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/rule.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/routingA.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/prevent-dns-spoofing.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/multiple-outbound.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/manipulation.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/loadbalance.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/intranet-sharing.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/import.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/auto-pull.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/manual/address-port.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/install/openwrt.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/install/docker.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/install/redhat.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/install/podman.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/install/windows.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/install/macos.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/install/linux.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/install/debian.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/install/archlinux.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/install/alpine.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/introduction/introduction.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>http://example.com/</loc>
+    <lastmod>2024-07-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+  <url>
+    <loc>http://example.com/categories/%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2024-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/%E5%AE%89%E8%A3%85/Alpine/</loc>
+    <lastmod>2024-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/%E8%B5%B7%E6%AD%A5/</loc>
+    <lastmod>2024-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/%E8%B5%B7%E6%AD%A5/%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2024-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
