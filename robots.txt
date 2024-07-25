@@ -6,5 +6,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /lib/
+Disallow: /goto/
 
 Sitemap: https://v2raya.net/sitemap.xml
