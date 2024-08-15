@@ -1,5 +1,5 @@
-https://v2raya.net/gfw/FAQs_about_circumventing_gfw.html
-https://v2raya.net/recommen/v2ray_node_recommendations.html
-https://v2raya.net/goto/bbycloud.html
-https://v2raya.net/advanced-application/unblock-netease-cloud.html
-https://v2raya.net/advanced-application/specify-container-proxy.html
+https://v2raya.net/prologue/quick-start.html
+https://v2raya.net/introduction/introduction.html
+https://v2raya.net/advanced-application/
+https://v2raya.net/manual/
+https://v2raya.net/install/install_v2rayA.html
