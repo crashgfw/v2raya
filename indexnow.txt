@@ -1,5 +1,5 @@
-https://v2raya.net/introduction/introduction.html
-https://v2raya.net/gfw/FAQs_about_circumventing_gfw.html
-https://v2raya.net/prologue/quick-start.html
-https://v2raya.net/recommen/v2ray_node_recommendations.html
-https://v2raya.net/recommen/what_to_do_once_escape_the_wall.html
+https://v2raya.net/goto/WgetCloud.html
+https://v2raya.net/goto/totorocloud.html
+https://v2raya.net/goto/ssrdog.html
+https://v2raya.net/goto/reami.html
+https://v2raya.net/goto/cyberguard.html
