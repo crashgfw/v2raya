@@ -1,5 +1,5 @@
 https://v2raya.net/goto/WgetCloud.html
-https://v2raya.net/goto/reami.html
 https://v2raya.net/goto/cokecloud.html
 https://v2raya.net/goto/bbycloud.html
-https://v2raya.net/install/linux.html
+https://v2raya.net/recommen/vpn_and_proxies_recommendations.html
+https://v2raya.net/recommen/v2ray_node_recommendations.html
