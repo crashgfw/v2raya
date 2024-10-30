@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://v2raya.net/goto/stablenet.html</loc>
+    
+    <lastmod>2024-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/free-nodes/2024-10-30-free-node-subscribe.html</loc>
+    
+    <lastmod>2024-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/free-nodes/2024-10-10-free-node-subscribe.html</loc>
+    
+    <lastmod>2024-10-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/install/install_v2rayA.html</loc>
     
     <lastmod>2024-10-30</lastmod>
@@ -56,24 +83,6 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/free-nodes/2024-10-30-free-node-subscribe.html</loc>
-    
-    <lastmod>2024-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/free-nodes/2024-10-10-free-node-subscribe.html</loc>
-    
-    <lastmod>2024-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/recommen/v2ray_node_recommendations.html</loc>
     
     <lastmod>2024-10-29</lastmod>
@@ -102,15 +111,6 @@
   
   <url>
     <loc>https://v2raya.net/goto/bbycloud.html</loc>
-    
-    <lastmod>2024-10-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/goto/stablenet.html</loc>
     
     <lastmod>2024-10-29</lastmod>
     
@@ -660,6 +660,20 @@
   </url>
   
   <url>
+    <loc>https://v2raya.net/tags/ArchLinux/</loc>
+    <lastmod>2024-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/tags/Manjaro/</loc>
+    <lastmod>2024-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/tags/Alpine/</loc>
     <lastmod>2024-10-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -675,20 +689,6 @@
   
   <url>
     <loc>https://v2raya.net/tags/Ubuntu/</loc>
-    <lastmod>2024-10-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/tags/ArchLinux/</loc>
-    <lastmod>2024-10-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/tags/Manjaro/</loc>
     <lastmod>2024-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -739,21 +739,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Alpine/</loc>
-    <lastmod>2024-10-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Docker/</loc>
-    <lastmod>2024-10-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/MacoOS/</loc>
     <lastmod>2024-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -767,14 +753,14 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/OpenWrt/</loc>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Alpine/</loc>
     <lastmod>2024-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C/</loc>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/OpenWrt/</loc>
     <lastmod>2024-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -788,7 +774,21 @@
   </url>
   
   <url>
+    <loc>https://v2raya.net/categories/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C/</loc>
+    <lastmod>2024-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/categories/%E8%B5%B7%E6%AD%A5/</loc>
+    <lastmod>2024-10-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/MacoOS/</loc>
     <lastmod>2024-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
