@@ -1,5 +1,5 @@
-https://v2raya.net/advanced-application/intranet-transmission.html
-https://v2raya.net/introduction/introduction.html
-https://v2raya.net/install/install_v2rayA.html
-https://v2raya.net/advanced-application/
-https://v2raya.net/advanced-application/advanced-dns.html
+https://v2raya.net/manual/hook.html
+https://v2raya.net/manual/ext.html
+https://v2raya.net/manual/use-other-core.html
+https://v2raya.net/manual/auto-pull.html
+https://v2raya.net/manual/transparent-proxy.html
