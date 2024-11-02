@@ -2,6 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://v2raya.net/advanced-application/intranet-transmission.html</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/introduction/introduction.html</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/install_v2rayA.html</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/advanced-application/</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/advanced-application/advanced-dns.html</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/manual/</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/advanced-application/public-network-transmission.html</loc>
+    
+    <lastmod>2024-11-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/tags/</loc>
     
     <lastmod>2024-11-02</lastmod>
@@ -74,27 +137,9 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/introduction/introduction.html</loc>
-    
-    <lastmod>2024-10-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/prologue/quick-start.html</loc>
     
     <lastmod>2024-10-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/install_v2rayA.html</loc>
-    
-    <lastmod>2024-10-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -317,24 +362,6 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/advanced-application/</loc>
-    
-    <lastmod>2024-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/manual/</loc>
-    
-    <lastmod>2024-08-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/advanced-application/unblock-netease-cloud.html</loc>
     
     <lastmod>2024-08-01</lastmod>
@@ -345,15 +372,6 @@
   
   <url>
     <loc>https://v2raya.net/advanced-application/specify-container-proxy.html</loc>
-    
-    <lastmod>2024-08-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/advanced-application/public-network-transmission.html</loc>
     
     <lastmod>2024-08-01</lastmod>
     
@@ -381,15 +399,6 @@
   
   <url>
     <loc>https://v2raya.net/advanced-application/intranet-direct.html</loc>
-    
-    <lastmod>2024-08-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/advanced-application/advanced-dns.html</loc>
     
     <lastmod>2024-08-01</lastmod>
     
@@ -633,15 +642,6 @@
   
   <url>
     <loc>https://v2raya.net/advanced-application/noroot.html</loc>
-    
-    <lastmod>2024-07-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/advanced-application/intranet-transmission.html</loc>
     
     <lastmod>2024-07-26</lastmod>
     
