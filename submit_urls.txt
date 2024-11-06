@@ -1,3 +1,5 @@
+https://v2raya.net/prologue/quick-start.html
+https://v2raya.net/install/windows.html
 https://v2raya.net/introduction/introduction.html
 https://v2raya.net/free-nodes/2024-11-05-free-node-subscribe.html
 https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html
@@ -26,5 +28,3 @@ https://v2raya.net/manual/import.html
 https://v2raya.net/manual/address-port.html
 https://v2raya.net/advanced-application/tproxy-docker-support.html
 https://v2raya.net/advanced-application/synology-transparent-proxy.html
-https://v2raya.net/advanced-application/specify-container-proxy.html
-https://v2raya.net/advanced-application/public-network-transmission.html
