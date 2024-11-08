@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://v2raya.net/advanced-application/custom-extra-config.html</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/manual/address-port.html</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/introduction/introduction.html</loc>
+    
+    <lastmod>2024-11-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/install/docker.html</loc>
     
     <lastmod>2024-11-08</lastmod>
@@ -30,15 +57,6 @@
   
   <url>
     <loc>https://v2raya.net/manual/</loc>
-    
-    <lastmod>2024-11-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/introduction/introduction.html</loc>
     
     <lastmod>2024-11-08</lastmod>
     
@@ -290,15 +308,6 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/manual/address-port.html</loc>
-    
-    <lastmod>2024-11-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/advanced-application/tproxy-docker-support.html</loc>
     
     <lastmod>2024-11-02</lastmod>
@@ -345,15 +354,6 @@
   
   <url>
     <loc>https://v2raya.net/advanced-application/multiple-outbound-routing.html</loc>
-    
-    <lastmod>2024-11-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/advanced-application/custom-extra-config.html</loc>
     
     <lastmod>2024-11-02</lastmod>
     
@@ -834,13 +834,6 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/MacoOS/</loc>
-    <lastmod>2024-11-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/OpenWrt/</loc>
     <lastmod>2024-11-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -848,7 +841,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E8%B5%B7%E6%AD%A5/</loc>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/MacoOS/</loc>
     <lastmod>2024-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -862,14 +855,21 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Windows/</loc>
+    <loc>https://v2raya.net/categories/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C/</loc>
     <lastmod>2024-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C/</loc>
+    <loc>https://v2raya.net/categories/%E8%B5%B7%E6%AD%A5/</loc>
+    <lastmod>2024-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Windows/</loc>
     <lastmod>2024-11-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
