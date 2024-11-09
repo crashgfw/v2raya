@@ -1,3 +1,4 @@
+https://v2raya.net/manual/import.html
 https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html
 https://v2raya.net/prologue/quick-start.html
 https://v2raya.net/introduction/introduction.html
@@ -30,7 +31,6 @@ https://v2raya.net/manual/prevent-dns-spoofing.html
 https://v2raya.net/manual/multiple-outbound.html
 https://v2raya.net/manual/manipulation.html
 https://v2raya.net/manual/loadbalance.html
-https://v2raya.net/manual/import.html
 https://v2raya.net/advanced-application/tproxy-docker-support.html
 https://v2raya.net/advanced-application/synology-transparent-proxy.html
 https://v2raya.net/advanced-application/specify-container-proxy.html
