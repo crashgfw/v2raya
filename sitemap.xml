@@ -2,6 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/redhat.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/podman.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/openwrt.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/debian.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/alpine.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/archlinux.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/docker.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/linux.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/install_v2rayA.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/macos.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/install/windows.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/introduction/introduction.html</loc>
+    
+    <lastmod>2024-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/manual/prevent-dns-spoofing.html</loc>
     
     <lastmod>2024-11-14</lastmod>
@@ -48,15 +165,6 @@
   
   <url>
     <loc>https://v2raya.net/goto/cokecloud.html</loc>
-    
-    <lastmod>2024-11-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2024-11-13</lastmod>
     
@@ -200,24 +308,6 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/introduction/introduction.html</loc>
-    
-    <lastmod>2024-11-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/docker.html</loc>
-    
-    <lastmod>2024-11-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/advanced-application/intranet-direct.html</loc>
     
     <lastmod>2024-11-08</lastmod>
@@ -248,15 +338,6 @@
     <loc>https://v2raya.net/manual/intranet-sharing.html</loc>
     
     <lastmod>2024-11-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/windows.html</loc>
-    
-    <lastmod>2024-11-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -398,15 +479,6 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/install/install_v2rayA.html</loc>
-    
-    <lastmod>2024-11-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/tags/</loc>
     
     <lastmod>2024-11-02</lastmod>
@@ -419,15 +491,6 @@
     <loc>https://v2raya.net/categories/</loc>
     
     <lastmod>2024-11-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/linux.html</loc>
-    
-    <lastmod>2024-10-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -455,69 +518,6 @@
     <loc>https://v2raya.net/goto/reami.html</loc>
     
     <lastmod>2024-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/alpine.html</loc>
-    
-    <lastmod>2024-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/archlinux.html</loc>
-    
-    <lastmod>2024-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/debian.html</loc>
-    
-    <lastmod>2024-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/macos.html</loc>
-    
-    <lastmod>2024-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/openwrt.html</loc>
-    
-    <lastmod>2024-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/podman.html</loc>
-    
-    <lastmod>2024-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/install/redhat.html</loc>
-    
-    <lastmod>2024-08-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -741,6 +741,13 @@
   </url>
   
   <url>
+    <loc>https://v2raya.net/tags/Alpine/</loc>
+    <lastmod>2024-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/tags/ArchLinux/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -749,13 +756,6 @@
   
   <url>
     <loc>https://v2raya.net/tags/Manjaro/</loc>
-    <lastmod>2024-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/tags/Alpine/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -820,6 +820,20 @@
   </url>
   
   <url>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Alpine/</loc>
+    <lastmod>2024-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Docker/</loc>
+    <lastmod>2024-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/MacoOS/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -834,21 +848,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Alpine/</loc>
-    <lastmod>2024-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Podman/</loc>
-    <lastmod>2024-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Docker/</loc>
     <lastmod>2024-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
