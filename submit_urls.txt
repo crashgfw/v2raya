@@ -1,3 +1,5 @@
+https://v2raya.net/manual/transparent-proxy.html
+https://v2raya.net/prologue/quick-start.html
 https://v2raya.net/goto/cokecloud.html
 https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html
 https://v2raya.net/recommen/vpn_and_proxies_recommendations.html
@@ -10,7 +12,6 @@ https://v2raya.net/free-nodes/2024-11-04-free-node-subscribe.html
 https://v2raya.net/free-nodes/2024-11-02-free-node-subscribe.html
 https://v2raya.net/free-nodes/2024-10-31-free-node-subscribe.html
 https://v2raya.net/free-nodes/2024-10-10-free-node-subscribe.html
-https://v2raya.net/prologue/quick-start.html
 https://v2raya.net/goto/stablenet.html
 https://v2raya.net/manual/rule.html
 https://v2raya.net/advanced-application/custom-extra-config.html
@@ -27,4 +28,3 @@ https://v2raya.net/manual/hook.html
 https://v2raya.net/manual/ext.html
 https://v2raya.net/manual/use-other-core.html
 https://v2raya.net/manual/auto-pull.html
-https://v2raya.net/manual/transparent-proxy.html
