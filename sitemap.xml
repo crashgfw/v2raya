@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html</loc>
+    
+    <lastmod>2024-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/recommen/proxy-recommendations.html</loc>
+    
+    <lastmod>2024-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/free-nodes/2024-10-10-free-node-subscribe.html</loc>
     
     <lastmod>2024-12-19</lastmod>
@@ -29,6 +47,15 @@
   </url>
   
   <url>
+    <loc>https://v2raya.net/free-nodes/2024-11-03-free-node-subscribe.html</loc>
+    
+    <lastmod>2024-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/free-nodes/2024-11-02-free-node-subscribe.html</loc>
     
     <lastmod>2024-12-19</lastmod>
@@ -39,15 +66,6 @@
   
   <url>
     <loc>https://v2raya.net/free-nodes/2024-11-05-free-node-subscribe.html</loc>
-    
-    <lastmod>2024-12-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/free-nodes/2024-11-03-free-node-subscribe.html</loc>
     
     <lastmod>2024-12-19</lastmod>
     
@@ -84,15 +102,6 @@
   
   <url>
     <loc>https://v2raya.net/goto/stablenet.html</loc>
-    
-    <lastmod>2024-12-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2024-12-19</lastmod>
     
@@ -791,6 +800,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://v2raya.net/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -822,7 +838,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Docker/</loc>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Linux/</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -830,13 +846,6 @@
   
   <url>
     <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Alpine/</loc>
-    <lastmod>2024-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Linux/</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -872,6 +881,13 @@
   
   <url>
     <loc>https://v2raya.net/categories/%E8%B5%B7%E6%AD%A5/</loc>
+    <lastmod>2024-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Docker/</loc>
     <lastmod>2024-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
