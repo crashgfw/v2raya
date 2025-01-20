@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://v2raya.net/recommendation/</loc>
+    
+    <lastmod>2025-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/recommen/vpn_and_proxies_recommendations.html</loc>
+    
+    <lastmod>2025-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/recommen/v2ray_node_recommendations.html</loc>
+    
+    <lastmod>2025-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/recommen/hysteria2_node_providers.html</loc>
+    
+    <lastmod>2025-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html</loc>
+    
+    <lastmod>2025-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/free-nodes/2025-01-17-free-v2ray-node-subscriptions.html</loc>
+    
+    <lastmod>2025-01-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/free-nodes/2024-10-10-free-node-subscribe.html</loc>
     
     <lastmod>2025-01-20</lastmod>
@@ -20,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/free-nodes/2024-10-31-free-node-subscribe.html</loc>
+    <loc>https://v2raya.net/free-nodes/2024-11-01-free-node-subscribe.html</loc>
     
     <lastmod>2025-01-20</lastmod>
     
@@ -29,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/free-nodes/2024-11-01-free-node-subscribe.html</loc>
+    <loc>https://v2raya.net/free-nodes/2024-10-31-free-node-subscribe.html</loc>
     
     <lastmod>2025-01-20</lastmod>
     
@@ -74,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/free-nodes/2024-12-26-free-v2ray-node-subscriptions.html</loc>
+    <loc>https://v2raya.net/free-nodes/2024-12-27-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2025-01-20</lastmod>
     
@@ -83,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/free-nodes/2024-12-27-free-v2ray-node-subscriptions.html</loc>
+    <loc>https://v2raya.net/free-nodes/2024-12-26-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2025-01-20</lastmod>
     
@@ -146,15 +200,6 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/free-nodes/2025-01-17-free-v2ray-node-subscriptions.html</loc>
-    
-    <lastmod>2025-01-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/free-nodes/2025-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2025-01-20</lastmod>
@@ -164,45 +209,9 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html</loc>
-    
-    <lastmod>2025-01-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/recommendation/</loc>
-    
-    <lastmod>2025-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/recommen/vpn_and_proxies_recommendations.html</loc>
-    
-    <lastmod>2025-01-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/recommen/proxy-recommendations.html</loc>
     
     <lastmod>2024-12-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/recommen/hysteria2_node_providers.html</loc>
-    
-    <lastmod>2024-12-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -230,15 +239,6 @@
     <loc>https://v2raya.net/goto/stablenet.html</loc>
     
     <lastmod>2024-12-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/recommen/v2ray_node_recommendations.html</loc>
-    
-    <lastmod>2024-12-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -830,13 +830,6 @@
 
   
   <url>
-    <loc>https://v2raya.net/tags/v2rayA/</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/tags/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -844,7 +837,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/tags/%E5%AE%9D%E8%B4%9D%E4%BA%91/</loc>
+    <loc>https://v2raya.net/tags/v2rayA/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -893,7 +886,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/tags/Alpine/</loc>
+    <loc>https://v2raya.net/tags/%E5%AE%9D%E8%B4%9D%E4%BA%91/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -908,6 +901,13 @@
   
   <url>
     <loc>https://v2raya.net/tags/Manjaro/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/tags/Alpine/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -972,21 +972,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Alpine/</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Docker/</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Podman/</loc>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/OpenWrt/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1000,6 +986,20 @@
   </url>
   
   <url>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Alpine/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Podman/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Windows/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -1007,7 +1007,14 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/OpenWrt/</loc>
+    <loc>https://v2raya.net/categories/%E8%B5%B7%E6%AD%A5/</loc>
+    <lastmod>2025-01-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Docker/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1015,13 +1022,6 @@
   
   <url>
     <loc>https://v2raya.net/categories/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C/</loc>
-    <lastmod>2025-01-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/categories/%E8%B5%B7%E6%AD%A5/</loc>
     <lastmod>2025-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
