@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://v2raya.net/free-nodes/2024-12-26-free-v2ray-node-subscriptions.html</loc>
+    
+    <lastmod>2025-01-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/free-nodes/2024-12-27-free-v2ray-node-subscriptions.html</loc>
+    
+    <lastmod>2025-01-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/free-nodes/2024-12-28-free-v2ray-node-subscriptions.html</loc>
+    
+    <lastmod>2025-01-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/free-nodes/2024-12-30-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2025-01-23</lastmod>
@@ -66,33 +93,6 @@
   
   <url>
     <loc>https://v2raya.net/free-nodes/free-v2ray-node-subscriptions.html</loc>
-    
-    <lastmod>2025-01-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/free-nodes/2024-12-26-free-v2ray-node-subscriptions.html</loc>
-    
-    <lastmod>2025-01-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/free-nodes/2024-12-27-free-v2ray-node-subscriptions.html</loc>
-    
-    <lastmod>2025-01-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/free-nodes/2024-12-28-free-v2ray-node-subscriptions.html</loc>
     
     <lastmod>2025-01-23</lastmod>
     
@@ -830,13 +830,6 @@
 
   
   <url>
-    <loc>https://v2raya.net/tags/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/</loc>
-    <lastmod>2025-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/tags/v2rayA/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -844,7 +837,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/tags/%E5%AE%9D%E8%B4%9D%E4%BA%91/</loc>
+    <loc>https://v2raya.net/tags/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -893,21 +886,14 @@
   </url>
   
   <url>
+    <loc>https://v2raya.net/tags/%E5%AE%9D%E8%B4%9D%E4%BA%91/</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/tags/Alpine/</loc>
-    <lastmod>2025-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/tags/Debian/</loc>
-    <lastmod>2025-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://v2raya.net/tags/Ubuntu/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -922,6 +908,20 @@
   
   <url>
     <loc>https://v2raya.net/tags/Manjaro/</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/tags/Debian/</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://v2raya.net/tags/Ubuntu/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -979,13 +979,6 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/MacoOS/</loc>
-    <lastmod>2025-01-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Docker/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -1000,7 +993,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Podman/</loc>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/MacoOS/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1014,6 +1007,13 @@
   </url>
   
   <url>
+    <loc>https://v2raya.net/categories/%E8%B5%B7%E6%AD%A5/</loc>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://v2raya.net/categories/%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -1021,7 +1021,7 @@
   </url>
   
   <url>
-    <loc>https://v2raya.net/categories/%E8%B5%B7%E6%AD%A5/</loc>
+    <loc>https://v2raya.net/categories/%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/Podman/</loc>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
